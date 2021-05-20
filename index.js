@@ -32,5 +32,5 @@ app.get('/', function (req, res) {
 const AuthRoute = require('./src/routes/auth');
 const UserRoute = require('./src/routes/user');
 
-app.use('/api', AuthRoute);
+app.use('/api/auth', AuthRoute);
 app.use('/api/', UserRoute);
