@@ -1,3 +1,8 @@
+## SejutaCita
+### Aplikasi Event No. 1 Mahasiswa & SMA dengan 650.000+ Pengguna
+
+---
+
 ## Built with
 
 * [ExpressJs](https://expressjs.com/) - The web framework used
@@ -15,8 +20,6 @@ run start.dev
 ```
 
 ### Set Up .env
-
----
 
 Make `.env` file on **each** Node folder for the environment variables
 
