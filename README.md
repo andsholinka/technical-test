@@ -1,8 +1,10 @@
 ## Built with
 
-* [Express](https://expressjs.com/) - The web framework used
+* [ExpressJs](https://expressjs.com/) - The web framework used
 * [MongoDB](https://www.mongodb.com/1) - Database
 * [Mongoose](https://mongoosejs.com/) - Elegant mongodb object modeling for node.js
+
+The user authentication is implemented using **[JWT](https://jwt.io/)** and **refresh token** mechanism
 
 ## Getting Started
 ```
@@ -11,8 +13,6 @@ npm install
 setup the .env
 run start.dev
 ```
-
-The user authentication is implemented using **[JWT](https://jwt.io/)** and **refresh token** mechanism
 
 ### Set Up .env
 
