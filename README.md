@@ -29,3 +29,6 @@ SECRET2=sejutaCita2
 
 ## API DOC
 * [LINK](https://documenter.getpostman.com/view/13775058/TzRa64Cs) - Postman
+
+## Flow API
+![](./media/Flow-API.JPG)
